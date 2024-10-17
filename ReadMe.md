@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development and Game Development simultaneously.<br>👯 I’m looking to collaborate on Projects related to the current Industrial demands.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning JavaScript & C++ 
-
+🔭 I’m currently working on Web Development and Game Development simultaneously.<br>🌱 Currently learning JavaScript & C++ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayush.beura04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-beura) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@QuantomBoss) 
